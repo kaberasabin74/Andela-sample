@@ -171,6 +171,7 @@ h6 {
 
 .primary-btn:hover {
   background-color: #ff7b39;
+  transform: scale(1.1);
 }
 
 .secondary-btn {
@@ -191,6 +192,8 @@ h6 {
 .secondary-btn:hover {
   border-color: #ff7b39;
   color: #ff7b39;
+  transform: scale(1.1);
+  
 }
 
 /* Media Queries */
